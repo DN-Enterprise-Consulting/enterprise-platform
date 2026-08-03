@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+<modelVersion>4.0.0</modelVersion>
+<groupId>de.dnenterprise</groupId>
+<artifactId>enterprise-platform</artifactId>
+<version>0.1.0-SNAPSHOT</version>
+<packaging>pom</packaging>
+<modules>
+    <module>platform-bom</module>
+    <module>shared-kernel</module>
+    <module>assessment</module>
+    <module>knowledge</module>
+    <module>rules</module>
+    <module>publishing</module>
+    <module>workflow</module>
+    <module>identity</module>
+    <module>search</module>
+    <module>web-api</module>
+    <module>bootstrap</module>
+</modules>
+<properties>
+<java.version>21</java.version>
+<maven.compiler.release>21</maven.compiler.release>
+</properties>
+</project>
