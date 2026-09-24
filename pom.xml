@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
 <modelVersion>4.0.0</modelVersion>
-<groupId>de.dnenterprise</groupId>
+<groupId>de.dn.enterprise</groupId>
 <artifactId>enterprise-platform</artifactId>
 <version>0.1.0-SNAPSHOT</version>
 <packaging>pom</packaging>
