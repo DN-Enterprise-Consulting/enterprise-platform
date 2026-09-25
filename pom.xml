@@ -12,6 +12,7 @@
     <module>rules</module>
     <module>publishing</module>
     <module>workflow</module>
+	<module>orchestration</module>
     <module>identity</module>
     <module>search</module>
     <module>web-api</module>
