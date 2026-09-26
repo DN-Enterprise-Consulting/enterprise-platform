@@ -13,6 +13,7 @@
     <module>publishing</module>
     <module>workflow</module>
 	<module>orchestration</module>
+	<module>execution</module>
     <module>identity</module>
     <module>search</module>
     <module>web-api</module>
